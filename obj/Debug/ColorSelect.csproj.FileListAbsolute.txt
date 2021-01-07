@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ColorSelect\ColorSelect\bin\Debug\ColorSelect.exe.config
+C:\Users\User\source\repos\ColorSelect\ColorSelect\bin\Debug\ColorSelect.exe
+C:\Users\User\source\repos\ColorSelect\ColorSelect\bin\Debug\ColorSelect.pdb
+C:\Users\User\source\repos\ColorSelect\ColorSelect\obj\Debug\ColorSelect.Form1.resources
+C:\Users\User\source\repos\ColorSelect\ColorSelect\obj\Debug\ColorSelect.Properties.Resources.resources
+C:\Users\User\source\repos\ColorSelect\ColorSelect\obj\Debug\ColorSelect.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ColorSelect\ColorSelect\obj\Debug\ColorSelect.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ColorSelect\ColorSelect\obj\Debug\ColorSelect.exe
+C:\Users\User\source\repos\ColorSelect\ColorSelect\obj\Debug\ColorSelect.pdb
